@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.861f103f.css",
+    "main.js": "/static/js/main.bb082270.js",
+    "static/media/js.png": "/static/media/js.49dfdb540a9b55281793.png",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/work3.webp": "/static/media/work3.f5e8d2b336d573ddad3f.webp",
+    "static/media/node.png": "/static/media/node.aa8bc616bb8252fa29f3.png",
+    "static/media/mongodb.png": "/static/media/mongodb.2712a9ef4766706b403d.png",
+    "static/media/css.png": "/static/media/css.3df17ea39184bb237e8a.png",
+    "static/media/sass.png": "/static/media/sass.757450b84d6273adea8e.png",
+    "static/media/html.png": "/static/media/html.ba54fd85cd70a3dbadfe.png",
+    "static/media/Lolita_Danancher2.webp": "/static/media/Lolita_Danancher2.e366a72c27e943427aaa.webp",
+    "static/media/github.png": "/static/media/github.1ff6d9646165b7f34af9.png",
+    "static/media/work.webp": "/static/media/work.5786857c6c6d76343738.webp",
+    "static/media/work4.webp": "/static/media/work4.952d8fc97a1e52e31d55.webp",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.861f103f.css.map": "/static/css/main.861f103f.css.map",
+    "main.bb082270.js.map": "/static/js/main.bb082270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861f103f.css",
+    "static/js/main.bb082270.js"
+  ]
+}

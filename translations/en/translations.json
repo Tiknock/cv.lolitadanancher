@@ -1,0 +1,157 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "achievements": "Achievements",
+      "contact": "Contact"
+    },
+    "presentation":{
+      "1":"A",
+      "2":"passionate",
+      "3": "web developer",
+      "4":"Creation of website.",
+      "5":"Improving your online image.",
+      "6":"Together let's grow your business!",
+      "btn":"Contact Me"
+    }
+  },
+    "about": {
+        "title": "About me",
+        "presentation": {
+            "1":"Specialized in the field of ",
+            "2":"Education",
+            "3":" and ",
+            "4":"Training",
+            "5":",  I have developed many ",
+            "6":"human qualities",
+            "7":" such as listening, understanding and empathy. A bearer of ",
+            "8":"values",
+            "9":" that are dear to me, I am committed to honoring projects that will make sense for you and for me.",
+            "10":" Passionate",
+            "11":" about web development, I was able to develop self-taught skills and knowledge as well as follow the Open Classrooms training in order to get the title RNCP 36076 ''Web Integrator Developer'' level 5 (Bac +2). I was able to learn about ",
+            "12":"project management",
+            "13":", ",
+            "14":"website creation",
+            "15":" (front-end and back-end side), ",
+            "16":"optimization",
+            "17":" and ",
+            "18":"SEO",
+            "19":". I thus developed my capacities to be ",
+            "20":" autonomous",
+            "21":", ",
+            "22":"curious",
+            "23":" and ",
+            "24":"structured."
+          },
+          "cv":"My CV"
+    },
+    "skills":{
+        "title":"Skills",
+        "list":{
+          "hard":"Hard skills",
+          "soft":"Soft skills"
+        },
+        "detail":{
+          "htmlcss":{
+            "content":{
+              "1": "Integrate content according to a model with HTML and CSS",
+              "2": "Implement a responsive interface with HTML and CSS"
+            }
+          },
+          "sass":{
+            "content":{
+              "1":"Creating variables and mixins",
+              "2": "Media queries management"
+            }
+          },
+          "js":{
+            "content":{
+              "1":"Retrieve user data in JavaScript via forms",
+              "2":"Manipulate DOM elements with JavaScript",
+              "3":"Handling user events with JavaScript"
+            }
+          },
+          "react":{
+            "content":{
+              "1":"Configure app page navigation with React Router",
+              "2":"Initialize an app with Create React App",
+              "3":"Develop website interface elements using React components"
+            }
+          },
+          "node":{
+            "content":{
+              "1":"Implement a logical data model in accordance with regulations",
+              "2":"Implement CRUD operations securely",
+              "3":"Use Express.js to create a robust and scalable API efficiently"
+            }
+          },
+          "mongodb":{
+            "content":{
+              "1":"Store data securely"
+            }
+          },
+          "seo":{
+            "content":{
+              "1":"Optimize website performance",
+              "2":"Use Schema.org, Google Ad and meta tags"
+            }
+          },
+          "github":{
+            "content":{
+              "1":"Post and retrieve a repository in order to be able to work as a team",
+              "2":"Use Github Page to host a website"
+            }
+          },
+          "empathie":{
+            "title":"Empathy",
+            "content":"Through my personality, the interpersonal relationships that I have developed as well as the readings that I have done, I have revealed a strong empathy that allows me to communicate with my interlocutor in a benevolent way in order to seek to better understand him."
+          },
+          "equipe":{
+            "title":"Team spirit",
+            "content":"With experience in catering, more particularly as a team leader in fast food, I learned to develop group cohesion in order to deal with stressful situations."
+          },
+          "pedagogie":{
+            "title":"Pedagogy",
+            "content":"Graduated with a Master's degree in Education and Training Sciences, I was able to develop my knowledge and skills in pedagogy and andragogy and was able to use them during courses that I taught at the University."
+          },
+          "autonomie":{
+            "title":"Autonomy",
+            "content":"Beyond my professional experiences, during my studies, I was able to learn how to structure myself, set goals and achieve them independently."
+          },
+          "adaptation":{
+            "title":"Adaptation",
+            "content":"As evidenced by my CV, I am a person who can touch on many areas and I know how to adapt to people as well as to the professional demands that are made to me. I also learned to search on my own when my skills and knowledge reached their limit."
+          },
+          "gestion":{
+            "title":"Project management",
+            "content":{
+              "1":"Follow the progress of the project thanks to a project management tool",
+              "2":"Write the technical specifications of a web project based on functional needs",
+              "3":"Divide a feature into tasks to prepare for development",
+              "4":"Present the technical solution",
+              "5":"Set up a technology watch method",
+              "6":"Version your project with Git and Github"
+            }
+          }
+        }
+      },
+      "achievements":"Achievements",
+      "contact": {
+        "name": "Name",
+        "send": "Send",
+        "checkbox": " By filling out the form, I agree to ",
+        "politic": "the privacy policy of this site."
+      },
+      "footer":{
+        "1":"Web developer, creation of website,...",
+        "2":"Home",
+        "3":"Legal Notice",
+        "4":"Details contact",
+        "5":"Mentions",
+        "6":"Website created with ",
+        "7":"2023 Copyright | Lolita Danancher all rights reserved"
+      },
+      "404":"This page does not exist..."
+}
